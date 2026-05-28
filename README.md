@@ -2,6 +2,9 @@
 🚀 AI Career Management System
 Smart. Structured. Scalable.
 <img src="https://img.shields.io/badge/Backend-Python-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Architecture-Layered-red?style=for-the-badge" /> </div>
+
+Live Demo 👉 https://ai-career-1-mm94.onrender.com/login
+
 🌟 Project Vision
 
 The AI Career Management System is a full-stack web application built to modernize and streamline the placement process within academic institutions.
